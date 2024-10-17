@@ -1,16 +1,24 @@
-## Hi there 👋
+# 👋 Hello, World! I'm [MeowLynxSea](https://meowdream.cn)
 
-<!--
-**MeowLynxSea/MeowLynxSea** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🛠 Skills
+- Programming Languages: Go, JavaScript, Java, C++
+- Frameworks & Libraries: React, Vue.js, Node.js, etc
+- Databases: I prefer sqlite :)
 
-Here are some ideas to get you started:
+## 🌟 GitHub Stats
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeowLynxSea)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📚 Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeowLynxSea)
+
+## 📝 Recent Projects
+- [Uptimeow](https://github.com/MeowLynxSea/Uptimeow) - A light bukkit server uptime panel in Go.
+- [Proksea](https://github.com/MeowLynxSea/Proksea) - A proxy server for Minecraft with plugin support. Allow players to switch/fallback to servers.
+
+## 💼 Education Experience
+- Working on Theoretical and Applied Mechanics at Tsinghua University
+
+## 📞 Contact
+- Email: [mew@meowdream.cn](mailto:mew@meowdream.cn)
+
+Feel free to reach out if you have any questions or if you're interested in collaborating on a project! 🚀
