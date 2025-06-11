@@ -3,7 +3,7 @@
 ## 🛠 Skills
 - Programming Languages: Go, JavaScript, Java, C++
 - Frameworks & Libraries: React, Vue.js, Node.js, etc
-- Databases: I prefer sqlite :)
+- Databases: SQL, MongoDB, etc
 
 ## 🌟 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeowLynxSea)
