@@ -12,8 +12,10 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MeowLynxSea)
 
 ## 📝 Recent Projects
-- [Uptimeow](https://github.com/MeowLynxSea/Uptimeow) - A light bukkit server uptime panel in Go.
-- [Proksea](https://github.com/MeowLynxSea/Proksea) - A proxy server for Minecraft with plugin support. Allow players to switch/fallback to servers.
+- [PastScreen-CN](https://github.com/iSoldLeo/PastScreen-CN/) - Native screenshot software for MacOS
+- [BroadcastChannel](https://github.com/MeowLynxSea/BroadcastChannel) - Transform your Telegram channel into a blog with a new Brutalist design
+- [Easy Todo](https://github.com/MeowLynxSea/easy_todo) - Lightweight full-platform Todolist application, supporting advanced features such as attachments, and E2EE cloud synchronization
+- [SSHBridge](https://github.com/MeowLynxSea/SSHBridge) - Use SSH for internal network penetration without other applications, supporting traffic statistics and access data analysis
 
 ## 💼 Education Experience
 - Working on Theoretical and Applied Mechanics at Tsinghua University
