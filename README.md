@@ -1,8 +1,8 @@
 # 👋 Hello, World! I'm [MeowLynxSea](https://meowdream.cn)
 
 ## 🛠 Skills
-- Programming Languages: Go, JavaScript, Java, C++
-- Frameworks & Libraries: React, Vue.js, Node.js, etc
+- Programming Languages: JS & TS, Java, C++ and Rust
+- Frameworks & Libraries: React, Vue.js, Flutter, etc
 - Databases: SQL, MongoDB, etc
 
 ## 🌟 GitHub Stats
@@ -16,9 +16,10 @@
 - [BroadcastChannel](https://github.com/MeowLynxSea/BroadcastChannel) - Transform your Telegram channel into a blog with a new Brutalist design
 - [Easy Todo](https://github.com/MeowLynxSea/easy_todo) - Lightweight full-platform Todolist application, supporting advanced features such as attachments, and E2EE cloud synchronization
 - [SSHBridge](https://github.com/MeowLynxSea/SSHBridge) - Use SSH for internal network penetration without other applications, supporting traffic statistics and access data analysis
+- **Aether** - A mysterious and upcoming project
 
 ## 💼 Education Experience
-- Working on Theoretical and Applied Mechanics at Tsinghua University
+- Working on Theoretical and Applied Mechanics at Magna Doctrina University
 
 ## 📞 Contact
 - Email: [mew@meowdream.cn](mailto:mew@meowdream.cn)
