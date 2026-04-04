@@ -16,7 +16,7 @@
 - [BroadcastChannel](https://github.com/MeowLynxSea/BroadcastChannel) - Transform your Telegram channel into a blog with a new Brutalist design
 - [Easy Todo](https://github.com/MeowLynxSea/easy_todo) - Lightweight full-platform Todolist application, supporting advanced features such as attachments, and E2EE cloud synchronization
 - [SSHBridge](https://github.com/MeowLynxSea/SSHBridge) - Use SSH for internal network penetration without other applications, supporting traffic statistics and access data analysis
-- **Aether** - A mysterious and upcoming project
+- [Yororen-UI](https://github.com/MeowLynxSea/yororen-ui) - Reusable UI components and widgets for Rust, built on top of gpui.
 
 ## 💼 Education Experience
 - Working on Theoretical and Applied Mechanics at Magna Doctrina University
